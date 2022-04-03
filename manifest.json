@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Septle",
+  "description": "Play a harder (7-letter) daily word game based on the orginal Wordle.",
+  "version": "0.4",
+  "author": "irom1",
+  "browser_action": {
+    "default_icon": "logo.png",
+    "default_popup": "popup.html",
+    "default_title": "Septle"
+  },
+  "permissions": [
+    "activeTab"
+  ]
+}
